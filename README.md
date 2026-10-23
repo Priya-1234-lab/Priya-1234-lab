@@ -35,30 +35,30 @@ An AI-powered web application that generates brand-focused tweet drafts using Ge
 
 - Built with React.js, Vite, Django, and the Groq API
 - Supports demo mode and AI-powered content generation
-- **Live Demo:**  https://brand-tweet-ai.vercel.app
-- **Source Code:** https://github.com/Priya-1234-lab/BrandTweet-AI
+- **Live Demo:** [View Project]( https://brand-tweet-ai.vercel.app)
+- **Source Code:** [View Repository](https://github.com/Priya-1234-lab/BrandTweet-AI)
 
 ### 2. Missing Child Detection
 A full-stack project designed to assist in identifying missing children using face recognition.
 
 - Combines image-based matching with database functionality
 - Developed as an academic software project
-- **Source Code:** https://github.com/Priya-1234-lab/missing_child_detection
+- **Source Code:** [View Repository](https://github.com/Priya-1234-lab/missing_child_detection)
 
 ### 3. Self-Driving Car Simulation
 A simulation project exploring vehicle movement, steering, and driving behavior using Python and Pygame.
 
 - Demonstrates programming logic and simulation concepts
-- **Source Code:** https://github.com/Priya-1234-lab/Self-driving-car
+- **Source Code:** [View Repository](https://github.com/Priya-1234-lab/Self-driving-car)
 
 ### 4. Creator Atlas – Influencer Dashboard
 A web-based dashboard designed to organize and display influencer-related information through a clean, user-friendly interface.
 
 - Provides an organized dashboard for influencer data
 - Focuses on a simple and interactive user experience
-- **Live Demo:** https://priya-1234-lab.github.io/creator-atlas-influencer-dashboard/
-- **Source Code:** https://github.com/Priya-1234-lab/creator-atlas-influencer-dashboard
-
+- **Live Demo:** [View Project](https://priya-1234-lab.github.io/creator-atlas-influencer-dashboard/)
+- **Source Code:** [View Repository](https://github.com/Priya-1234-lab/creator-atlas-influencer-dashboard)
+  
 ---
 
 ## 📚 Currently Learning
