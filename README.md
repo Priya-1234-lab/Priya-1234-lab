@@ -111,14 +111,6 @@ A web-based dashboard designed to organize and display influencer-related inform
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priya-1234-lab&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-1234-lab&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect!
 
 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/priya-m-naik-2a8029256)
