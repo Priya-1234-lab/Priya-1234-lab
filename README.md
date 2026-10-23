@@ -18,30 +18,19 @@
 - 🤝 Open to collaborating on interesting software projects
 
 ---
-
 ## 🛠️ Tech Stack
 
-### Languages & Web Development
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,html,css,js" />
 
+**Frontend & Backend**  
+<img src="https://skillicons.dev/icons?i=react,django" />
 
+**Tools & Platforms**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-
-\
-
-
-### Backend & AI
-
-
-
-\
-
-
-### Tools
-
-
-
-\
-
+**AI & Data**  
+`Generative AI` · `Groq API` · `SQL` · `REST APIs` · `Streamlit`
 
 ---
 
