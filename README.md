@@ -1,82 +1,117 @@
-# Hi there, I'm Priya Naik! 👋
+# 👋 Hey, I'm Priya Naik!
 
-### 👩‍💻 Python Developer | Full Stack Development | Generative AI
+### 💻 Python Developer | Full Stack Development | Generative AI
 
-I'm a Computer Science Engineering graduate passionate about building practical applications using Python, web technologies, and Generative AI. I'm continuously improving my programming, problem-solving, and software development skills while working on real-world projects.
-
-- 🔭 Currently working on Python Full Stack and Generative AI projects
-- 🌱 Learning Django, REST APIs, React.js, SQL, and backend development
-- 🤖 Interested in AI-powered applications and intelligent automation
-- 💡 Enjoy solving problems and learning new technologies
-- 🎯 Looking for entry-level opportunities in Python Development and Full Stack Development
+🎓 Computer Science Engineering Graduate
+🚀 Passionate about building practical applications with Python, web technologies, and Generative AI.
+🌱 Continuously learning, building projects, and improving my software development skills.
+🎯 Open to entry-level opportunities in Python Development and Full Stack Development.
 
 ---
 
-## 🛠️ Technical Skills
+## 🌟 About Me
 
-**Languages:** Python, SQL
+- 🔭 Building full-stack and AI-powered applications
+- 🧠 Exploring Python, Django, React.js, and REST APIs
+- 🤖 Interested in Generative AI and intelligent applications
+- 💡 Enjoy solving coding problems and learning new technologies
+- 🤝 Open to collaborating on interesting software projects
 
-**Frontend:** HTML, CSS, JavaScript, React.js
+---
 
-**Backend:** Django, REST APIs
+## 🛠️ Tech Stack
 
-**Databases:** SQL fundamentals
+### Languages & Web Development
 
-**AI & Data:** Groq API, Generative AI fundamentals
 
-**Tools:** Git, GitHub, VS Code, Streamlit
+
+
+\
+
+
+### Backend & AI
+
+
+
+\
+
+
+### Tools
+
+
+
+\
+
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. BrandTweet AI Studio
-An AI-powered web application that generates brand-focused tweet drafts using Generative AI.
+### 🤖 1. BrandTweet AI Studio
 
-- Built with React.js, Vite, Django, and the Groq API
-- Supports demo mode and AI-powered content generation
-- **Live Demo:** [View Project]( https://brand-tweet-ai.vercel.app)
-- **Source Code:** [View Repository](https://github.com/Priya-1234-lab/BrandTweet-AI)
+An AI-powered application for generating brand-focused tweet drafts using Generative AI.
 
-### 2. Missing Child Detection
-A full-stack project designed to assist in identifying missing children using face recognition.
+- ⚡ Generates tweet drafts using AI integration
+- 🎨 Built with React.js, Vite, Django, and Groq API
+- 🧪 Includes a demo mode when an AI key is not configured
 
-- Combines image-based matching with database functionality
-- Developed as an academic software project
-- **Source Code:** [View Repository](https://github.com/Priya-1234-lab/missing_child_detection)
+🔗 **[Live Demo](https://brand-tweet-ai.vercel.app)**
+💻 **[View Source Code](https://github.com/Priya-1234-lab/BrandTweet-AI)**
 
-### 3. Self-Driving Car Simulation
-A simulation project exploring vehicle movement, steering, and driving behavior using Python and Pygame.
+### 🔍 2. Missing Child Detection
 
-- Demonstrates programming logic and simulation concepts
-- **Source Code:** [View Repository](https://github.com/Priya-1234-lab/Self-driving-car)
+A full-stack academic project designed to assist in identifying missing children using face recognition.
 
-### 4. Creator Atlas – Influencer Dashboard
-A web-based dashboard designed to organize and display influencer-related information through a clean, user-friendly interface.
+- 🖼️ Image-based matching
+- 🗄️ Database functionality for managing records
 
-- Provides an organized dashboard for influencer data
-- Focuses on a simple and interactive user experience
-- **Live Demo:** [View Project](https://priya-1234-lab.github.io/creator-atlas-influencer-dashboard/)
-- **Source Code:** [View Repository](https://github.com/Priya-1234-lab/creator-atlas-influencer-dashboard)
-  
+💻 **[View Source Code](https://github.com/Priya-1234-lab/missing_child_detection)**
+
+### 🚗 3. Self-Driving Car Simulation
+
+A Python simulation exploring vehicle movement and steering behavior.
+
+- 🎮 Developed using Python and Pygame
+- 🧩 Demonstrates programming logic and simulation concepts
+
+💻 **[View Source Code](https://github.com/Priya-1234-lab/Self-driving-car)**
+
+### 📊 4. Creator Atlas – Influencer Dashboard
+
+A web-based dashboard designed to organize and display influencer-related information through a user-friendly interface.
+
+- 📈 Organized dashboard for influencer data
+- 🎨 Clean and interactive user interface
+
+🌐 **[Live Demo](https://priya-1234-lab.github.io/creator-atlas-influencer-dashboard/)**
+💻 **[View Source Code](https://github.com/Priya-1234-lab/creator-atlas-influencer-dashboard)**
+
 ---
 
 ## 📚 Currently Learning
 
-- Python programming and problem-solving
-- Django and REST API development
-- Data Structures and Algorithms
-- Database design and SQL queries
-- Generative AI application development
+- 🐍 Python programming and problem-solving
+- 🌐 Django and REST API development
+- 🧠 Data Structures and Algorithms
+- 🗃️ SQL and database fundamentals
+- 🤖 Generative AI application development
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Statistics
 
-- 💼 **LinkedIn:** [Priya Naik](https://linkedin.com/in/priya-m-naik-2a8029256)
-- 💻 **GitHub:** [Priya-1234-lab](https://github.com/Priya-1234-lab)
-- 📧 **Email:** pn8155267@gmail.com
+
+
+
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+## 🤝 Let's Connect!
+
+💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/priya-m-naik-2a8029256)
+💻 **GitHub:** [Explore my repositories](https://github.com/Priya-1234-lab)
+📧 **Email:** [pn8155267@gmail.com](mailto\:pn8155267@gmail.com)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my projects and connect with me.*
