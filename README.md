@@ -20,18 +20,42 @@
 ---
 ## 🛠️ Tech Stack
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" height="40" alt="Technology icons" />
+</p>
 
-**Frontend & Backend**  
-<img src="https://skillicons.dev/icons?i=react,django" />
+| Technology | Name |
+|---|---|
+| 🐍 | Python |
+| 🌐 | HTML |
+| 🎨 | CSS |
+| ⚡ | JavaScript |
 
-**Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### 🎨 Frontend & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,django" height="40" alt="React and Django icons" />
+</p>
 
-**AI & Data**  
-`Generative AI` · `Groq API` · `SQL` · `REST APIs` · `Streamlit`
+- ⚛️ React.js
+- 🎯 Django
 
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" alt="Git, GitHub, and VS Code icons" />
+</p>
+
+- 🔀 Git
+- 🐙 GitHub
+- 💻 VS Code
+
+### 🤖 AI & Backend Concepts
+
+- 🤖 Generative AI
+- 🔗 Groq API
+- 🗄️ SQL
+- 🔌 REST APIs
+- 🚀 Streamlit
 ---
 
 ## 🚀 Featured Projects
@@ -89,16 +113,18 @@ A web-based dashboard designed to organize and display influencer-related inform
 
 ## 📊 GitHub Statistics
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priya-1234-lab&show_icons=true&theme=tokyonight)
 
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-1234-lab&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Let's Connect!
 
 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/priya-m-naik-2a8029256)
+
 💻 **GitHub:** [Explore my repositories](https://github.com/Priya-1234-lab)
+
 📧 **Email:** [pn8155267@gmail.com](mailto\:pn8155267@gmail.com)
 
 ---
